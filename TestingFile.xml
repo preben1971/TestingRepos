@@ -2,9 +2,5 @@
 <book>
     <title>Title</title>
     <p>Dette er et avsnitt...</p>
-<<<<<<< HEAD
     <p>masterBranch</p>
-=======
-    <p>testingBrancht</p>
->>>>>>> origin/testBranch
 </book>
